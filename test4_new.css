@@ -235,7 +235,7 @@
     padding: 5px 7px;}
 .A3{
     display: flex;
-    height: 125px;
+    height: 130px;
     justify-content: flex-end;
     }
 .A3_frame{
@@ -261,7 +261,7 @@
 .A4_frame{
     border: solid 1px;
     border-radius: 20px;
-    height: 70px; width: 550px;}
+    height: 75px; width: 550px;}
 .text_A4{
     padding: 5px 10px;}
 .A4_2{
@@ -353,12 +353,7 @@
 .A8_frame{
     border: solid 1px;
     border-radius: 20px;
-    height: 120px; width: 550px;}
+    height: 75px; width: 550px;}
 .text_A8{   
     padding: 5px 10px;}
-
-@media (max-width:1250px){
-    .material2{
-        font-size:18px;
-    }
 }
